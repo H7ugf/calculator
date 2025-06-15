@@ -81,8 +81,8 @@ Simply open the `index.html` file in your web browser.
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/simple-calculator.git
-cd simple-calculator
+git clone https://github.com/H7ugf/calculator.git
+cd calculator
 ```
 
 2. **فتح التطبيق**
